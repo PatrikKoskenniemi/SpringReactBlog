@@ -28,3 +28,4 @@ hs_err_pid*
 .idea/**/tasks.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**/uiDesigner.xml
